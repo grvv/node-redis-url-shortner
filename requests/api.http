@@ -1,0 +1,6 @@
+POST http://localhost:5000/shortenUrl
+Content-Type: application/json
+
+{
+    "url": "https://www.google.com/search?rlz=1C1CHBF_enIN832IN832&sxsrf=ACYBGNSxXtm2_QRhFVlJQIJ9HhUA-dKqCg%3A1569771641568&ei=edCQXcquIoue9QOrkbjAAQ&q=my+world%21&oq=my+world%21&gs_l=psy-ab.3..0i7i30l4j0l4j0i7i30j0.62863.63372..63902...0.3..0.203.525.0j2j1....1..0....1..gws-wiz.......0i71j35i305i39.sqfZQ_wr4uY&ved=0ahUKEwiKz8uIr_bkAhULT30KHasIDhgQ4dUDCAs&uact=5"
+}
