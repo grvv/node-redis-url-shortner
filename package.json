@@ -18,7 +18,7 @@
     "config": "^3.2.2",
     "express": "^4.17.1",
     "mongoose": "^5.7.1",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "shortid": "^2.2.15",
     "valid-url": "^1.0.9"
   }
